@@ -46,10 +46,29 @@ img{
 ul{
     list-style-type: none;
     line-height: 2;
+    padding-left: 0%;
 }
 
 a{
     text-decoration: none;
     color: #99ffff;
     font-weight: 700;
+}
+.principal{
+    background-color: #ff6cb5;
+    height: 40px;
+}
+
+.principal a{
+    color: #fff;
+
+    text-decoration: underline;
+    font-weight: none;
+    max-height: normal;]
+
+}
+
+.principal li{
+
+    display: inline-block;
 }
